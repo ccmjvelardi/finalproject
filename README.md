@@ -1,4 +1,4 @@
-# Finalproject
+# Final Project
 Final Project on Crash-Test Ratings
 
 ### Purpose of This Project
